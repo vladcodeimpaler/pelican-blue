@@ -4,7 +4,7 @@ Responsive theme for [Pelican](http://blog.getpelican.com/) Static Site Generato
 
 ## Demo
 
-You can see the theme in action at https://parbhatpuri.com
+You can see the theme in action at https://myblog
 
 ### Screenshots
 
