@@ -1,10 +1,13 @@
-# Pelican-Blue
+# Pelican-Blue-Nicer
 
-Responsive theme for [Pelican](http://blog.getpelican.com/) Static Site Generator, Powered by [Python](https://www.python.org/) Programming language.
+Responsive theme for the [Pelican](http://blog.getpelican.com/) Static Site Generator
+
+Updated for Pelican 3.x.x on DATE
 
 ## Demo
 
-You can see the theme in action at https://myblog
+You can see the theme in action at https://blog.codeimpaler.com
+
 
 ### Screenshots
 
@@ -25,7 +28,7 @@ You can see the theme in action at https://myblog
 * RSS/ATOM feeds
 * Easy to install
 
-## Installation
+## Installation (simplify - for windows + linux)
 
 You can install Pelican-Blue theme to your earlier Pelican project or create a new project from the Pelican [Quickstart](http://docs.getpelican.com/en/3.6.3/quickstart.html) guide.
 
@@ -64,7 +67,7 @@ make devserver
 
 **Note:** If you are new to Pelican Static Site Generator, you can read the Pelican [Docs](http://docs.getpelican.com/en/3.6.3/) to learn the working of Pelican. You can also customize the theme after reading the documentation.
 
-## Settings
+## Settings (add images as examples)
 
 ### pelicanconf.py
 
@@ -105,6 +108,32 @@ GOOGLE_ANALYTICS = ""
 
 For more information on publishing your site, read the publishing [docs](http://docs.getpelican.com/en/3.6.3/publish.html)
 
+## TODO List
+- [s] Make blog tile go to homepage and make it look nicer
+- Add/fix top left icon
+- Make the left menu expand down, left align text
+- Make dates nicer and move them on top
+- Add tags and categories to all article pages
+- update social media sharing icons on the article page 
+- update social media sharing icons on the sidebar
+- add reader intro to index page (under title) (AUTHOR_DESCRIPTION)
+- rename sidebar_digest configuration setting to sidebar_blog_description, more clear what it does
+v.2
+- rename all non pelican template variables to blue_* for better readability when editing
+- add meta tags in conf
+v.3
+- convert to twitter bootstrap for better layout management
+v.4
+- add top navbar (make it togglable)
+
+
+- publish to themes markeplace
+
+
+
+
 ## Contributing
 
-Your contributions are welcome to improve the `pelican-blue` theme.
+Your contributions are welcome to improve the `pelican-blue` theme by submitting a PR.
+
+
